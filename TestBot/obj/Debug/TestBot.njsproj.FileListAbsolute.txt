@@ -1,0 +1,3 @@
+C:\Users\sctmp1107\source\repos\TestBot\TestBot\obj\Debug\TestBot.njsproj.CoreCompileInputs.cache
+C:\Users\sctmp1107\source\repos\TestBot\TestBot\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\sctmp1107\source\repos\TestBot\TestBot\obj\Debug\TestBot.njsprojResolveAssemblyReference.cache

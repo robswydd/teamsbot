@@ -1,0 +1,9 @@
+{
+  "name": "test-bot",
+  "version": "0.0.0",
+  "description": "TestBot",
+  "main": "app.js",
+  "author": {
+    "name": "SCTMP1107"
+  }
+}
